@@ -4,5 +4,5 @@
 
 A partir de lo de la clase pasada de `nodejs-api-museos` se piden las siguientes cosas:
 * Modificar el original de la clase pasada para que además de traer museos y escribir nombre más teléfono en `museos.txt`, que traiga organismos y escriba los nombres en otro archivo `organismos.txt`. Que haga estas dos cosas al mismo tiempo. La url de la API para traer organismos está en `index.js`. 
-* Modificar el original de la clase pasada para que __luego__ de traer los museos, sea el mismo callback el que se encargue de escribir `museos.txt` *y* traer los organismos (que posteriormente se encargará de escribir `organismos.txt`.)
+* Modificar el original de la clase pasada para que __luego__ de traer los museos, sea el mismo callback el que se encargue de escribir `museos.txt` __y__ traer los organismos (que posteriormente se encargará de escribir `organismos.txt`.)
 * Modificar alguno de los anteriores dos para que lea `organismos.txt` y lo muestre por pantalla.
