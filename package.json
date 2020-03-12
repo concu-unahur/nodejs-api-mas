@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-api-mas",
+  "version": "1.0.0",
+  "description": "Ejemplo de uso de promises",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/concu-unahur/nodejs-api-mas.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Sebastián",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^5.2.2"
+  }
+}
